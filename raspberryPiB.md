@@ -2,9 +2,9 @@
 
 ## Menu
 
-| [Home](https://juditth.github.io/)
- | [Install dockar to Raspberry Pi B from scratch](https://juditth.github.io/raspberry-pi-b)
- | 
+\| [Home](https://juditth.github.io/)
+\| [Install dockar to Raspberry Pi B from scratch](https://juditth.github.io/raspberryPiB)
+\| 
 
 ## Install webserver to Raspberry Pi B
 
