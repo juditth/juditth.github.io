@@ -1,12 +1,14 @@
-# [juditth.github.io](https://juditth.github.io/)
+# [juditth.github.io](https://juditth.github.io)
 
-## Menu
+----
 
-\| [Home](https://juditth.github.io/)
-\| [Install dockar to Raspberry Pi B from scratch](https://juditth.github.io/raspberryPiB)
-\| [CZ Wordpress manual](https://juditth.github.io/wordpressManualCz)
-\| [Docker play - part 1](https://juditth.github.io/dockerPlayPart1)
-\| 
+* HOME: [Home](https://juditth.github.io)
+* Raspberry Pi: [Install Docker to Raspberry Pi B](https://juditth.github.io/raspberryPiB)
+* Wordpress: [CZ Wordpress manual](https://juditth.github.io/wordpressManualCz)
+* Docker: [Install docker to Raspberry Pi B](https://juditth.github.io/raspberryPiB) \| [Docker play - part 1](https://juditth.github.io/dockerPlayPart1)
+* PHP: [Backup of FTP folder](https://juditth.github.io/backupFtpFolder)
+
+----
 
 ## Install webserver to Raspberry Pi B
 
@@ -224,8 +226,3 @@ $ docker run                    # run the application
 adminer                         # which application (image, instance) is running (from hub.docker.com list) 
 ```
 
-
-
-## Tags
-
-[RaspberryPiB](https://juditth.github.io/raspberry-pi-b)

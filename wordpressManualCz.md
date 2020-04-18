@@ -1,12 +1,24 @@
-# Wordpress manual CZ
+# [juditth.github.io](https://juditth.github.io)
 
-## Přihlášení do administračního rozhraní
+----
+
+* HOME: [Home](https://juditth.github.io)
+* Raspberry Pi: [Install Docker to Raspberry Pi B](https://juditth.github.io/raspberryPiB)
+* Wordpress: [CZ Wordpress manual](https://juditth.github.io/wordpressManualCz)
+* Docker: [Install docker to Raspberry Pi B](https://juditth.github.io/raspberryPiB) \| [Docker play - part 1](https://juditth.github.io/dockerPlayPart1)
+* PHP: [Backup of FTP folder](https://juditth.github.io/backupFtpFolder)
+
+----
+
+## Wordpress manual CZ
+
+### Přihlášení do administračního rozhraní
 
 * Přihlašte se do administračního rozhraní na adrese www.<domena>.cz **/wp-admin**
     * Zadejte přihlašovací údaje a klikněte na "**Přihlásit**"
 
 
-## Úprava stránek
+### Úprava stránek
 
 * V menu vlevo najděte sekci Stránky a klikněte na "**Přehled stránek**"
 * V tabulce seznamu stránek jsou vidět detaily o každé stránce, včetně jazykových variant
@@ -24,7 +36,7 @@
 * Nakonec je třeba **změny publikovat** pomocí tlačítka "Aktualizovat" v menu vpravo nahoře.
 
     
-## Vytvoření stránky
+### Vytvoření stránky
 
 * V menu vlevo najděte sekci Stránky a klikněte na "**Přehled stránek**"
 * Nahoře na stránce je možnost "**Vytvořit stránku**" pro vytvoření nové stránky (případně je tato možnost přímo v menu)
